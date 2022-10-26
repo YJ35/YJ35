@@ -1,7 +1,6 @@
 ### Hi there
-# ![Alt Text](https://user-images.githubusercontent.com/87659253/197932546-3f990f74-06ec-4a55-87ef-9467f939c63e.gif)
 
-
+# ![Alt Text](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
 
 <!--
 **YJ35/YJ35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
