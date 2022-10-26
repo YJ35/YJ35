@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/87659253/197932322-c12687a7-c267-41ae-a9da-70b85b4598ff.png)
+
 
 <!--
 **YJ35/YJ35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
